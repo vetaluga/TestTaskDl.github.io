@@ -1,0 +1,15 @@
+@font-face{
+
+  font-family: 'CirceBold';
+
+  src: url('font/circe-bold/CRC65.otf');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+
+  src: url('font/PT_Sans/PT_Sans-Web-Regular.ttf'),
+  url('font/PT_Sans/PT_Sans-Web-Bold.ttf'),
+  url('font/PT_Sans/PT_Sans-Web-BoldItalic.ttf'),
+  url('font/PT_Sans/PT_Sans-Web-Italic.ttf');
+}
